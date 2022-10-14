@@ -1,3 +1,3 @@
 # language-test
-python, Selenium
+python, Selenium. 
 Задание: запуск автотестов для разных языков интерфейса
